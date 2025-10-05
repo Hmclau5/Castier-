@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwpb0IhlMA4=",
+  "success": true,
+  "projectFilePath": "/home/desktopitron/Desktop/Castier/Castier.csproj",
+  "expectedPackageFiles": [
+    "/home/desktopitron/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
