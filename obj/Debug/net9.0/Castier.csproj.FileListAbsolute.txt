@@ -20,3 +20,4 @@
 /home/desktopitron/Desktop/Castier/obj/Debug/net9.0/Castier.pdb
 /home/desktopitron/Desktop/Castier/obj/Debug/net9.0/Castier.genruntimeconfig.cache
 /home/desktopitron/Desktop/Castier/obj/Debug/net9.0/ref/Castier.dll
+/home/desktopitron/Desktop/Castier/obj/Debug/net9.0/Castier.sourcelink.json
