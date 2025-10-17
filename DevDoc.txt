@@ -4,7 +4,17 @@ Devlevel
 
 
 ray cast 
+    save when pressed
+    
     swinging
 kill boxes 
 enemies 
 frame deltas 
+
+
+
+devy stuff
+    separate class files
+    comments
+    
+
