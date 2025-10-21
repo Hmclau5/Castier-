@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Castier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f75cc23c82d38c248f7ce00c4820632905340b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce666f8281af42312cb002ca40e044231d8d2053")]
 [assembly: System.Reflection.AssemblyProductAttribute("Castier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Castier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

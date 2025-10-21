@@ -14,7 +14,12 @@ frame deltas
 
 
 devy stuff
-    separate class files
+    Global function file
+        CheckCollisionLines 
+        GetCollisionLines
+        CheckRecLineCollsion
+        GetRecLineCollision
+
     comments
     
 
